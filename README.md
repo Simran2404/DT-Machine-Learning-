@@ -1,1 +1,1 @@
-# DT-Machine-Learning-
+# Heart Disease Diagnosis and Laptop Prices Prediction
